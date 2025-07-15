@@ -1,0 +1,42 @@
+
+[
+  {
+    "id": "contoh-post-1",
+    "title": "Judul Post Pertama",
+    "author": "Nama Penulis",
+    "date": "2024-01-15",
+    "excerpt": "Ringkasan singkat dari post ini yang akan ditampilkan di halaman utama. Maksimal 2-3 kalimat yang menarik perhatian pembaca.",
+    "content": "Konten lengkap dari post. Anda bisa menggunakan HTML tags seperti <br> untuk line break, <strong> untuk bold, <em> untuk italic, dan tag HTML lainnya. Konten ini mendukung formatting HTML lengkap.",
+    "category": "Teknologi",
+    "tags": ["tutorial", "web", "cloudflare"],
+    "generated_by": "manual",
+    "keyword": "kata kunci utama",
+    "language": "id"
+  },
+  {
+    "id": "contoh-post-2", 
+    "title": "Tutorial Menggunakan AI untuk Blogging",
+    "author": "AI Assistant",
+    "date": "2024-01-16",
+    "excerpt": "Pelajari cara menggunakan AI untuk membuat konten blog yang menarik dan berkualitas tinggi dengan bantuan teknologi terdepan.",
+    "content": "Artificial Intelligence telah mengubah cara kita membuat konten.<br><br><strong>Keuntungan menggunakan AI:</strong><br>• Efisiensi waktu yang tinggi<br>• Konsistensi kualitas konten<br>• Ide-ide kreatif yang beragam<br>• Optimasi SEO otomatis<br><br>Dengan teknologi AI, Anda dapat:<br>1. Generate artikel berkualitas dalam hitungan menit<br>2. Mendapatkan gambar yang relevan secara otomatis<br>3. Optimasi keyword dan tag<br>4. Berbagai pilihan gaya penulisan<br><br><em>Catatan: Selalu review dan edit konten AI sesuai kebutuhan Anda.</em>",
+    "category": "Tutorial",
+    "tags": ["ai", "blogging", "automation", "content"],
+    "generated_by": "AI",
+    "keyword": "ai blogging tutorial",
+    "language": "id"
+  },
+  {
+    "id": "business-tips-2024",
+    "title": "Tips Bisnis Online di Era Digital 2024",
+    "author": "Business Expert",
+    "date": "2024-01-17", 
+    "excerpt": "Strategi jitu untuk mengembangkan bisnis online di tahun 2024 dengan memanfaatkan teknologi terbaru dan tren pasar digital.",
+    "content": "<h3>Strategi Bisnis Online Terkini</h3><br>Bisnis online terus berkembang pesat di era digital ini. Berikut adalah tips-tips penting:<br><br><strong>1. Media Sosial Marketing</strong><br>• Manfaatkan Instagram, TikTok, dan Facebook<br>• Buat konten yang engaging dan konsisten<br>• Gunakan influencer marketing<br><br><strong>2. E-commerce Optimization</strong><br>• Optimalkan toko online Anda<br>• Implementasikan chatbot customer service<br>• Sediakan multiple payment methods<br><br><strong>3. Digital Marketing</strong><br>• SEO untuk website<br>• Google Ads dan Facebook Ads<br>• Email marketing automation<br><br><img src='https://via.placeholder.com/600x300?text=Business+Growth+Chart' alt='Business Growth' style='width: 100%; border-radius: 8px; margin: 1rem 0;'><br><br>Dengan menerapkan strategi ini, bisnis online Anda akan siap bersaing di tahun 2024!",
+    "category": "Bisnis",
+    "tags": ["bisnis", "digital", "marketing", "online", "2024"],
+    "generated_by": "manual",
+    "keyword": "bisnis online digital marketing",
+    "language": "id"
+  }
+]

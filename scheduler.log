@@ -1,0 +1,86 @@
+2025-07-15 09:36:22,624 - scheduler - INFO - Configuration loaded successfully
+2025-07-15 09:36:22,625 - gemini - INFO - Loaded 14 API key(s) for rotation
+2025-07-15 09:36:22,628 - gemini - INFO - Gemini API initialized successfully
+2025-07-15 09:36:22,629 - scheduler - INFO - Generating article 1/1: teknologi AI terbaru 2024
+2025-07-15 09:36:24,897 - gemini - ERROR - Error generating title: 403 Permission denied: Consumer 'api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI"
+}
+metadata {
+  key: "consumer"
+  value: "projects/755537199695"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI\' has been suspended."
+]
+2025-07-15 09:36:25,170 - gemini - ERROR - Error generating article with API key 1: 403 Permission denied: Consumer 'api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI"
+}
+metadata {
+  key: "consumer"
+  value: "projects/755537199695"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyBJeeyM-w_UdX3QR-o6hJMDHa92f-MaBgI\' has been suspended."
+]
+2025-07-15 09:36:25,170 - scheduler - ERROR - Failed to generate content for: teknologi AI terbaru 2024
+2025-07-15 09:36:27,171 - gemini - INFO - Gemini API connection closed
+2025-07-15 09:39:26,295 - gemini - INFO - Loaded 15 API key(s) for rotation
+2025-07-15 09:39:26,296 - gemini - INFO - Gemini API initialized successfully
+2025-07-15 09:39:26,297 - gemini - INFO - Gemini API connection closed
+2025-07-15 09:40:51,236 - scheduler - INFO - Configuration loaded successfully
+2025-07-15 09:40:51,236 - gemini - INFO - Loaded 15 API key(s) for rotation
+2025-07-15 09:40:51,237 - gemini - INFO - Gemini API initialized successfully
+2025-07-15 09:40:51,237 - scheduler - INFO - Generating article 1/1: teknologi AI terbaru 2024
+2025-07-15 09:40:52,797 - gemini - ERROR - Error generating title: 403 Permission denied: Consumer 'api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1047220648242"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc\' has been suspended."
+]
+2025-07-15 09:40:53,074 - gemini - ERROR - Error generating article with API key 1: 403 Permission denied: Consumer 'api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc' has been suspended. [reason: "CONSUMER_SUSPENDED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "generativelanguage.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc"
+}
+metadata {
+  key: "consumer"
+  value: "projects/1047220648242"
+}
+, locale: "en-US"
+message: "Permission denied: Consumer \'api_key:AIzaSyDjt1E2bv5jDlEhxKsPyL4880S0JkOBwWc\' has been suspended."
+]
+2025-07-15 09:40:53,074 - scheduler - ERROR - Failed to generate content for: teknologi AI terbaru 2024
+2025-07-15 09:40:55,074 - gemini - INFO - Gemini API connection closed
+2025-07-15 14:03:55,269 - gemini - INFO - Loaded 15 API key(s) for rotation
+2025-07-15 14:03:55,272 - gemini - INFO - Gemini API initialized successfully
+2025-07-15 14:03:55,277 - gemini - INFO - Gemini API connection closed
